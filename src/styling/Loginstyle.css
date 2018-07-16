@@ -1,0 +1,18 @@
+
+/* ---------Styling for login page--------- */
+
+.myLogin,
+.mySignUp {
+    background-color: lightgray;
+    border-radius: 2vh;
+}
+
+.myLogin {
+    margin-right: 5vw;
+    margin-left: 13vw;
+}
+
+.mySignUp {
+    margin-left: 5vw;
+    margin-right: 13vw;
+}
